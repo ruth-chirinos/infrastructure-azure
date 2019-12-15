@@ -1,4 +1,4 @@
-<>h1>Learn ARM Templates</h1> 
+<h1>Learn ARM Templates</h1> 
 
 Laboratorio práctico ¡Bienvenido a un laboratorio práctico y autodidacta sobre <a href='https://docs.microsoft.com/en-us/azure/templates/'> Plantillas de Azure Resource Manager! </a>
 Sin necesidad de experiencia previa, aprenderá los conceptos básicos de las Plantillas ARM. Aprovisionará una aplicación de función de Azure con todas las dependencias necesarias y obtendrá una aplicación Serverless simple pero totalmente funcional.
