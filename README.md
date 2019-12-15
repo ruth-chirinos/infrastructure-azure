@@ -1,13 +1,14 @@
-# infrastructure-azure
-Learn ARM Templates 
+<>h1>Learn ARM Templates</h1> 
 
-Hands-on lab Welcome to a hands-on, self-paced lab about <a href='https://docs.microsoft.com/en-us/azure/templates/'>Azure Resource Manager Templates!</a>  
-ARM Templates  With no prior experience required, you will learn the basics of ARM Templates. You will provision an Azure Function App with all required dependencies and will get a simple but fully working serverless application up and running.  
+Laboratorio práctico ¡Bienvenido a un laboratorio práctico y autodidacta sobre <a href='https://docs.microsoft.com/en-us/azure/templates/'> Plantillas de Azure Resource Manager! </a>
+Sin necesidad de experiencia previa, aprenderá los conceptos básicos de las Plantillas ARM. Aprovisionará una aplicación de función de Azure con todas las dependencias necesarias y obtendrá una aplicación Serverless simple pero totalmente funcional.
 
-#Summary# 
-The lab is a step-by-step tutorial that guides you through the process of building a simple serverless application. We focus on automating infrastructure provisioning rather than writing application code.  In about an hour or so, you learn about Resource Groups, Storage Accounts, App Service Plans, and Function Apps in Azure. You define infrastructure as a JSON template and provision it from the command-line interface.  
+<h2>Summary</h2> 
+El laboratorio es un tutorial paso a paso que lo guía a través del proceso de creación de una aplicación simple sin servidor. Nos enfocamos en automatizar el aprovisionamiento de infraestructura en lugar de escribir el código de la aplicación.  En aproximadamente una hora, aprenderas sobre Resource Groups, Storage Accounts, App Service Plans, and Function Apps in Azure. Define la infraestructura como una plantilla JSON y la aprovisionas desde línea de comandos. 
 
-#Target Audience# 
-The lab assumes basic familiarity with Azure services listed above. But even if you are very new to Azure, you’ll be able to follow along and look up additional information in Azure docs as you go.  
+<h2>Target Audience</h2> 
+El laboratorio supone una familiaridad básica con los servicios de Azure enumerados anteriormente. Pero incluso si es nuevo en Azure, podrá seguirlo y buscar información adicional en los documentos de Azure a medida que avanza.
 
-No prior experience with ARM Templates is required.
+No se requiere experiencia previa con plantillas ARM.
+
+--- Basado en el tutorial de Mikhail Shilkov. ---
